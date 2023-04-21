@@ -68,5 +68,6 @@ PRODUCT_PACKAGES += \
 # Other
 PRODUCT_PACKAGES += \
     LeafBlackTheme \
+    NavigationBarMode2ButtonOverlay \
     NavigationBarNoHintOverlay \
     RoundQSOverlay
