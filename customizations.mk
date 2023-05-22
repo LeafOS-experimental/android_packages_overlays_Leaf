@@ -65,7 +65,8 @@ PRODUCT_PACKAGES += \
     IconShapeTeardropOverlay \
     IconShapeVesselOverlay
 
-# Misc
+# Other
 PRODUCT_PACKAGES += \
     LeafBlackTheme \
-    NavigationBarNoHintOverlay
+    NavigationBarNoHintOverlay \
+    RoundQSOverlay
