@@ -20,7 +20,7 @@ PRODUCT_PACKAGES += \
 # Fonts
 PRODUCT_PACKAGES += \
     FontGoogleSansOverlay \
-    FontHarmonySansOverlay \
+    FontHarmonyOsSansOverlay \
     FontInterOverlay \
     FontLatoOverlay \
     FontLinotteSourceOverlay \
